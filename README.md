@@ -1,4 +1,11 @@
 ProjectEuler-python
 ===================
+#about
+Project Euler
 
-ProjectEuler-python
+#licenses
+GPL licenses
+
+#info
+
+liuchang0812#gmail.com
