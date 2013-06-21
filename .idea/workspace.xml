@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="974e45bb-a1b2-4c4f-abe5-771044cdd51c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/encrypt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hack1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pe43.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pe97.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/renrenlib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/td.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yh1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="projecteuler.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/README.md" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367496571660" ignored="false" />
     <file path="/pe34.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367496992092" ignored="false" />
-    <file path="/Dummy.txt" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1371817038004" ignored="false" />
-    <file path="/.gitignore" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367497272779" ignored="false" />
+    <file path="/Dummy.txt" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1371818486379" ignored="false" />
+    <file path="/.gitignore" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1371818551302" ignored="false" />
     <file path="/pe28.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367498014440" ignored="false" />
     <file path="/threading.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367587864976" ignored="false" />
     <file path="/yh1.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1368014788164" ignored="false" />
@@ -42,19 +36,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pe34.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pe34.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="5" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+            <state line="27" column="0" selection-start="225" selection-end="230" vertical-scroll-proportion="0.5144404">
               <folding />
             </state>
           </provider>
@@ -96,10 +81,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pe97.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pe97.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pe97.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.32409382">
+            <state line="8" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -143,6 +137,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -150,13 +145,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/p7.py" />
         <option value="$PROJECT_DIR$/src/p9.py" />
         <option value="$PROJECT_DIR$/src/p10.py" />
         <option value="$PROJECT_DIR$/src/p12.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/pe34.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/pe28.py" />
         <option value="$PROJECT_DIR$/src/threading.py" />
         <option value="$PROJECT_DIR$/src/td.py" />
@@ -166,12 +159,14 @@
         <option value="$PROJECT_DIR$/src/hack1.py" />
         <option value="$PROJECT_DIR$/src/pe43.py" />
         <option value="$PROJECT_DIR$/src/pe97.py" />
+        <option value="$PROJECT_DIR$/src/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1068" />
-    <option name="y" value="312" />
+    <option name="x" value="1127" />
+    <option name="y" value="14" />
     <option name="width" value="1407" />
     <option name="height" value="1023" />
   </component>
@@ -527,7 +522,15 @@
       <created>1367498107355</created>
       <updated>1367498107355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="solve pe97 problem&#10;">
+      <created>1371818271625</created>
+      <updated>1371818271625</updated>
+    </task>
+    <task id="LOCAL-00005" summary="solve pe97 problem&#10;">
+      <created>1371818495945</created>
+      <updated>1371818495945</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -551,24 +554,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1068" y="312" width="1407" height="1023" extended-state="0" />
-    <editor active="false" />
+    <frame x="1127" y="14" width="1407" height="1023" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15464684" sideWeight="0.57274824" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15464684" sideWeight="0.6709007" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42725173" sideWeight="0.9982906" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42725173" sideWeight="0.9982906" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -616,7 +619,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pe28&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve pe97 problem&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -633,21 +636,12 @@
     <MESSAGE value="add pe35" />
     <MESSAGE value="add pe34&#10;" />
     <MESSAGE value="add pe28&#10;" />
+    <MESSAGE value="solve pe97 problem&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/p3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="51" selection-end="266" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="22" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2178899" />
@@ -666,13 +660,6 @@
     <entry file="file://$PROJECT_DIR$/src/pe34.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="5" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -731,9 +718,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pe97.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.32409382">
+        <state line="8" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="225" selection-end="230" vertical-scroll-proportion="0.5144404">
           <folding />
         </state>
       </provider>
