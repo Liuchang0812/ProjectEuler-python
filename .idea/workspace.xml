@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="974e45bb-a1b2-4c4f-abe5-771044cdd51c" name="Default" comment="add pe34&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pe28.py" />
-      <change type="DELETED" beforePath="D:\Code\ProjectEuler-python\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/projecteuler.iml" afterPath="$PROJECT_DIR$/.idea/projecteuler.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="974e45bb-a1b2-4c4f-abe5-771044cdd51c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/encrypt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hack1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pe43.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pe97.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/renrenlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/td.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yh1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="projecteuler.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/README.md" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367496571660" ignored="false" />
     <file path="/pe34.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367496992092" ignored="false" />
-    <file path="/Dummy.txt" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367497448042" ignored="false" />
+    <file path="/Dummy.txt" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1371817038004" ignored="false" />
     <file path="/.gitignore" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367497272779" ignored="false" />
     <file path="/pe28.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367498014440" ignored="false" />
+    <file path="/threading.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1367587864976" ignored="false" />
+    <file path="/yh1.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1368014788164" ignored="false" />
+    <file path="/hack1.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1368017015697" ignored="false" />
+    <file path="/pe43.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1368095173710" ignored="false" />
+    <file path="/pe97.py" changelist="974e45bb-a1b2-4c4f-abe5-771044cdd51c" time="1371817861704" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +60,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pe28.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pe28.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pe28.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="0.43734014">
+            <state line="9" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="td.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/td.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="renrenlib.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/renrenlib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="10" selection-start="1407" selection-end="1414" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yh1.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/yh1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="0" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pe97.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pe97.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.32409382">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hack1.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hack1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="13" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pe43.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pe43.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="52" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encrypt.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/encrypt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="16" selection-start="1868" selection-end="1868" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,11 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/p1.py" />
-        <option value="$PROJECT_DIR$/src/p2.py" />
-        <option value="$PROJECT_DIR$/src/p3.py" />
-        <option value="$PROJECT_DIR$/src/p5.py" />
-        <option value="$PROJECT_DIR$/src/p6.py" />
         <option value="$PROJECT_DIR$/src/p7.py" />
         <option value="$PROJECT_DIR$/src/p9.py" />
         <option value="$PROJECT_DIR$/src/p10.py" />
@@ -93,20 +158,53 @@
         <option value="$PROJECT_DIR$/src/pe34.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/pe28.py" />
+        <option value="$PROJECT_DIR$/src/threading.py" />
+        <option value="$PROJECT_DIR$/src/td.py" />
+        <option value="$PROJECT_DIR$/renrenlib.py" />
+        <option value="$PROJECT_DIR$/encrypt.py" />
+        <option value="$PROJECT_DIR$/src/yh1.py" />
+        <option value="$PROJECT_DIR$/src/hack1.py" />
+        <option value="$PROJECT_DIR$/src/pe43.py" />
+        <option value="$PROJECT_DIR$/src/pe97.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1169" />
-    <option name="y" value="257" />
-    <option name="width" value="1316" />
-    <option name="height" value="773" />
+    <option name="x" value="1068" />
+    <option name="y" value="312" />
+    <option name="width" value="1407" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine (Python)</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="false" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
@@ -128,6 +226,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,18 +261,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2.py" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -183,27 +282,27 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.pe28">
-    <configuration default="false" name="p9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pe97">
+    <configuration default="false" name="renrenlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/p9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/renrenlib.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="p10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="yh1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -216,13 +315,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/p10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/yh1.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="p12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="hack1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -235,13 +334,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/p12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hack1.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="pe34" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="pe43" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,13 +353,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/pe34.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/pe43.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="pe28" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="pe97" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -273,7 +372,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projecteuler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/pe28.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/pe97.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -376,19 +475,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.python2.7" />
-      <item index="1" class="java.lang.String" itemvalue="Python.p9" />
-      <item index="2" class="java.lang.String" itemvalue="Python.p10" />
-      <item index="3" class="java.lang.String" itemvalue="Python.p12" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pe34" />
-      <item index="5" class="java.lang.String" itemvalue="Python.pe28" />
+      <item index="1" class="java.lang.String" itemvalue="Python.renrenlib" />
+      <item index="2" class="java.lang.String" itemvalue="Python.yh1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.hack1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pe43" />
+      <item index="5" class="java.lang.String" itemvalue="Python.pe97" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pe28" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pe34" />
-        <item index="2" class="java.lang.String" itemvalue="Python.p12" />
-        <item index="3" class="java.lang.String" itemvalue="Python.p10" />
-        <item index="4" class="java.lang.String" itemvalue="Python.p9" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pe97" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pe43" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hack1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.yh1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.renrenlib" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +523,11 @@
       <created>1367497444950</created>
       <updated>1367497444950</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add pe28&#10;">
+      <created>1367498107355</created>
+      <updated>1367498107355</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -448,24 +551,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1169" y="257" width="1316" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="1068" y="312" width="1407" height="1023" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25917065" sideWeight="0.6785714" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15464684" sideWeight="0.57274824" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32142857" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42725173" sideWeight="0.9982906" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -513,7 +616,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pe34&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pe28&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -529,100 +632,35 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="add pe35" />
     <MESSAGE value="add pe34&#10;" />
+    <MESSAGE value="add pe28&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/p2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="12" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/p3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="51" selection-end="266" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="8" selection-start="51" selection-end="266" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2178899">
-          <folding />
-        </state>
+        <state line="10" column="22" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2178899" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="226" selection-end="226" vertical-scroll-proportion="0.30574712">
-          <folding />
-        </state>
+        <state line="14" column="6" selection-start="226" selection-end="226" vertical-scroll-proportion="0.30574712" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="12" selection-start="174" selection-end="174" vertical-scroll-proportion="0.2396789">
-          <folding />
-        </state>
+        <state line="11" column="12" selection-start="174" selection-end="174" vertical-scroll-proportion="0.2396789" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pe34.py">
@@ -641,7 +679,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pe28.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="0.43734014">
+        <state line="9" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/td.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/encrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="16" selection-start="1868" selection-end="1868" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renrenlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="10" selection-start="1407" selection-end="1414" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages/common/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="6" selection-start="1637" selection-end="1637" vertical-scroll-proportion="0.34446764" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hack1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pe43.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="52" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yh1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pe97.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.32409382">
           <folding />
         </state>
       </provider>
